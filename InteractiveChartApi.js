@@ -1,4 +1,4 @@
-﻿/** 
+﻿/**
  * Version 2.0
  */
 var Markit = {};
@@ -8,13 +8,14 @@ var Markit = {};
  * Second argument is duration (int) for how many days of history to retrieve.
  */
 Markit.InteractiveChartApi = function(symbol,duration){
+    console.log("Making Chart: ", symbol, duration);
     this.symbol = symbol.toUpperCase();
     this.duration = duration;
     this.PlotChart();
 };
 
 Markit.InteractiveChartApi.prototype.PlotChart = function(){
-    
+
     var params = {
         parameters: JSON.stringify( this.getInputParams() )
     }
@@ -43,7 +44,7 @@ Markit.InteractiveChartApi.prototype.PlotChart = function(){
 };
 
 Markit.InteractiveChartApi.prototype.getInputParams = function(){
-    return {  
+    return {
         Normalized: false,
         NumberOfDays: this.duration,
         DataPeriod: "Day",
@@ -126,7 +127,7 @@ Markit.InteractiveChartApi.prototype.render = function(data) {
 
     // create the chart
     $('#chartDemoContainer').highcharts('StockChart', {
-        
+
         rangeSelector: {
             selected: 1
             //enabled: false
@@ -151,7 +152,7 @@ Markit.InteractiveChartApi.prototype.render = function(data) {
             offset: 0,
             lineWidth: 2
         }],
-        
+
         series: [{
             type: 'candlestick',
             name: this.symbol,
