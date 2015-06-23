@@ -19,23 +19,26 @@ $('#symbolForm').keydown(function() {
     new Markit.InteractiveChartApi(sym, dur);
   });
 
-  //   var symbolLookUp= function(symbol){
-  //     console.log("Inside lookUp(): ", symbol);
-  //     // var sym = $.url().param('symbol') || 'SLB';
-  //     // var dur = $.url().param('duration') || 3650;
+//Handles drop-down menu
+    function symbolLookUp(symbol){
+      var symbol = symbol.value;
+      console.log("Inside lookUp(): ", symbol);
+      var sym = symbol || "SLB";
+      var dur =  3650;
 
-  //     // new Markit.InteractiveChartApi(sym, dur);
+      new Markit.InteractiveChartApi(sym, dur);
 
-  // };
+   };
 
+//Handles type-in ticker form
 $('form').submit(function(event){
       event.preventDefault();
       var symbol = $("input").val()
       //var duration;
 
-      console.log("Inside lookUp: ", symbol );
+      //console.log("Inside lookUp: ", symbol );
       var sym = symbol || "SLB";
-      var dur = $.url().param('duration') || 3650;
+      var dur =  3650;
 
       new Markit.InteractiveChartApi(sym, dur);
   });

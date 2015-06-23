@@ -8,7 +8,7 @@ var Markit = {};
  * Second argument is duration (int) for how many days of history to retrieve.
  */
 Markit.InteractiveChartApi = function(symbol,duration){
-    console.log("Making Chart: ", symbol, duration);
+   // console.log("Making Chart: ", symbol, duration);
     this.symbol = symbol.toUpperCase();
     this.duration = duration;
     this.PlotChart();

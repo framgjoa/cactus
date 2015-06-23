@@ -13,7 +13,7 @@
   <div class="row">
     <div class="span12">
       <div class="hero-unit">
-        <h2>Interactive Chart API Demo</h2>
+        <h2>Interactive Stock Chart</h2>
 
         <p>Words go here</p>
 
@@ -22,8 +22,16 @@
       Symbol Ticker:
         <input class="symbolForm" type="text" name="sym" value="sample" return="false">
         <!-- <input type="submit" name="submit" value="Submit"> -->
+        <select id="symbolDropDown" onchange="symbolLookUp(this)">
+          <option value="">Select ticker...</option>
+          <option value="SLB">Schlumberger</option>
+          <option value="GOOG">Google</option>
+          <option value="AAPL">Apple</option>
+          <option value="XOM">Exxon-Mobile</option>
+        </select>
       </form>
       <!-- Alternative Drop-down menu -->
+
     </div>
   </div>
   <div class="row content">
