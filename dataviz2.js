@@ -18,14 +18,23 @@ function update(data) {
 
   // UPDATE
   // Update old elements as needed.
-  text.attr("class", "update");
+  text.attr("class", "update")
+    .transition()
+      .duration(700)
+      .attr("x", function(d,i){return i*32;});
 
   // ENTER
   // Create new elements as needed.
   text.enter().append("text")
       .attr("class", "enter")
       .attr("dy", ".35em")
-      .text(function(d) { return d; });
+      .text(function(d) { return d; })
+      .style("fill-opacity", 1e-6)
+    .transition()
+      .duration(700)
+      .attr("y", 0)
+      .style("fill-opacity", 1);
+
 
   // ENTER + UPDATE
   // Appending to the enter selection expands the update selection to include
@@ -35,7 +44,13 @@ function update(data) {
 
   // EXIT
   // Remove old elements as needed.
-  text.exit().remove();
+  text.exit()
+    .attr('class', 'exit')
+   .transition()
+    .duration(700)
+    .attr('y', 60)
+    .style('fill-opacity', 1e-6)
+    .remove();
 }
 
 // The initial display.
