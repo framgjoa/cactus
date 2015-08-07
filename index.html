@@ -4,7 +4,6 @@
 </head>
 <body>
 
-
 <div class="container web">
   <div class="row">
     <div class="span12">
@@ -17,7 +16,7 @@
       <form submit='symbolLookUp()'>
       Symbol Ticker:
         <input class="symbolForm" type="text" name="sym" value="" return="false">
-        <!-- <input type="submit" name="submit" value="Submit"> -->
+        <!-- Alternative Drop-down menu -->
         <select id="symbolDropDown" onchange="symbolLookUp(this)">
           <option value="">Select ticker...</option>
           <option value="SLB">Schlumberger</option>
@@ -25,14 +24,13 @@
           <option value="AAPL">Apple</option>
           <option value="XOM">Exxon-Mobile</option>
         </select>
-      </form>
-      <!-- Alternative Drop-down menu -->
+
 
     </div>
   </div>
   <div class="row content">
     <div class="span12">
-      <h3 class="page-header">Demo</h3>
+      <h3 class="page-header">Selected Stock</h3>
 
       <div id="chartDemoContainer" style="height: 500px; min-width: 500px; margin-bottom: 30px;"></div>
 
@@ -41,12 +39,10 @@
   </div>
 </div>
 
-<!-- BookStrap styling -->
-<!-- <script type="text/javascript" src="../Resources/footer.js"></script> -->
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <!-- For curling   -->
 <script type="text/javascript" src="purl.js"></script>
-<script type="text/javascript" src="https://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+
 <script type="text/javascript" src="https://code.highcharts.com/stock/highstock.js"></script>
 <!-- local -->
 <script type="text/javascript" src="InteractiveChartApi.js"></script>
