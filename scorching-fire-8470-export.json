@@ -1,0 +1,1706 @@
+var data =  {
+            "endTime" : 1435351780241,
+            "interval" : 2000,
+            "startTime" : 1435347100919,
+            "userCount" : 14,
+            "votes" : {
+              "-JslLia82RiHCZHa0D4-" : {
+                "guestId" : "JbplJQrd0zzVHYHgAAAW",
+                "timeStep" : 8,
+                "voteVal" : 2
+              },
+              "-JslLkNUyHvsEi8aFBkl" : {
+                "guestId" : "27f50l8eSpwlfe-fAAAX",
+                "timeStep" : 12,
+                "voteVal" : 2
+              },
+              "-JslLmYt3WBNj67HUUC-" : {
+                "guestId" : "b7GJofMPZnTfq4Q1AAAY",
+                "timeStep" : 16,
+                "voteVal" : 2
+              },
+              "-JslLoPjpR5B5gXF1Gh7" : {
+                "guestId" : "aX4VCOeTJ2KLAHH4AAAZ",
+                "timeStep" : 20,
+                "voteVal" : 1
+              },
+              "-JslOUKh1hQPWnz2XtuL" : {
+                "guestId" : "b7GJofMPZnTfq4Q1AAAY",
+                "timeStep" : 370
+              },
+              "-JslOVHGTy0mCWComWBa" : {
+                "guestId" : "27f50l8eSpwlfe-fAAAX",
+                "timeStep" : 372
+              },
+              "-JslOWm3agX4XyCTb3Mj" : {
+                "guestId" : "aX4VCOeTJ2KLAHH4AAAZ",
+                "timeStep" : 375
+              },
+              "-JslOYyfnXxxKBc_-Vbe" : {
+                "guestId" : "JbplJQrd0zzVHYHgAAAW",
+                "timeStep" : 380
+              },
+              "-JslaN_iGKbp44sbWZ_5" : {
+                "guestId" : "vG_eHutQyKOm5xPwAAAk",
+                "timeStep" : 2059,
+                "voteVal" : 1
+              },
+              "-JslaOBBJZFSmFhb-AxD" : {
+                "guestId" : "Greb3cpQ-gcBb3ObAAAj",
+                "timeStep" : 2060,
+                "voteVal" : 1
+              },
+              "-JslaOg3XjnX1Euq8g-R" : {
+                "guestId" : "uR7leywgZRNm7K7dAAAi",
+                "timeStep" : 2061,
+                "voteVal" : 0
+              },
+              "-JslaPASSjHrr3_mzDaJ" : {
+                "guestId" : "fZsvvxAf8Rgj6RgAAAAl",
+                "timeStep" : 2062,
+                "voteVal" : 1
+              },
+              "-JslacUTs1q0JJF0I1TW" : {
+                "guestId" : "fZsvvxAf8Rgj6RgAAAAl",
+                "timeStep" : 2091,
+                "voteVal" : 0
+              },
+              "-JsladUaW0mcDrOu9qZS" : {
+                "guestId" : "Greb3cpQ-gcBb3ObAAAj",
+                "timeStep" : 2093,
+                "voteVal" : 0
+              },
+              "-Jslb5zDRAaG9q14aGq3" : {
+                "guestId" : "vG_eHutQyKOm5xPwAAAk",
+                "timeStep" : 2154,
+                "voteVal" : 2
+              },
+              "-Jslb6vWC2EyhtLbceHa" : {
+                "guestId" : "Greb3cpQ-gcBb3ObAAAj",
+                "timeStep" : 2155,
+                "voteVal" : 1
+              },
+              "-Jslb7K01vFFTauI_dcj" : {
+                "guestId" : "uR7leywgZRNm7K7dAAAi",
+                "timeStep" : 2156,
+                "voteVal" : 1
+              },
+              "-Jslb83KGwKu1xcAOOVP" : {
+                "guestId" : "fZsvvxAf8Rgj6RgAAAAl",
+                "timeStep" : 2158,
+                "voteVal" : 2
+              },
+              "-JslbzavB_FfmhNf7lIs" : {
+                "guestId" : "vG_eHutQyKOm5xPwAAAk",
+                "timeStep" : 2269,
+                "voteVal" : 1
+              },
+              "-Jslc-TlGXh95sZv5u9I" : {
+                "guestId" : "uR7leywgZRNm7K7dAAAi",
+                "timeStep" : 2271,
+                "voteVal" : 0
+              },
+              "-Jslc0pOVyTJmQf0GFu7" : {
+                "guestId" : "fZsvvxAf8Rgj6RgAAAAl",
+                "timeStep" : 2274,
+                "voteVal" : 1
+              },
+              "-JslcQXH_lzGsEIDi_Bt" : {
+                "guestId" : "fZsvvxAf8Rgj6RgAAAAl",
+                "timeStep" : 2326,
+                "voteVal" : 2
+              },
+              "-JslcRVatWYIhT5bV3-3" : {
+                "guestId" : "uR7leywgZRNm7K7dAAAi",
+                "timeStep" : 2328,
+                "voteVal" : 1
+              },
+              "-JslcT4uJrRtm4CMxlCV" : {
+                "guestId" : "uR7leywgZRNm7K7dAAAi",
+                "timeStep" : 2332,
+                "voteVal" : 2
+              }
+            },
+            "weightedAverage" : 1.4130349430702787
+          };
+
+var alldata = {
+  "desertShark" : {
+    "c1" : {
+      "startTime" : 1438353786075
+    },
+    "c2" : {
+      "endTime" : 1429638561584,
+      "startTime" : 1429638552182
+    },
+    "c3" : {
+      "endTime" : 1432435709848,
+      "startTime" : 1432435708144
+    },
+    "c4" : {
+      "startTime" : 1429639825008
+    },
+    "facebook" : {
+      "10103112462162704" : {
+        "displayName" : "David Tan",
+        "sessions" : {
+          "54gqfr" : {
+            "interval" : 2000,
+            "startTime" : 1429654612987,
+            "votes" : {
+              "-JnT2fVimThY98hFtF4N" : {
+                "guestId" : "_1L-MIA82ajsBkSFAAAE",
+                "timeStep" : 17,
+                "voteVal" : 2
+              }
+            }
+          }
+        }
+      },
+      "10152391284107465" : {
+        "displayName" : "Tommy Logan",
+        "sessions" : {
+          "00y66r" : {
+            "endTime" : 1430019103010,
+            "interval" : 2000,
+            "startTime" : 1430019038378,
+            "userCount" : 1,
+            "votes" : {
+              "-Jnnlpl6W2rsd2G3jQH-" : {
+                "guestId" : "uQdT1i0CQY2_ye55AAAC",
+                "timeStep" : 16,
+                "voteVal" : 2
+              },
+              "-Jnnls62Vq1vhS5xr6Zs" : {
+                "guestId" : "uQdT1i0CQY2_ye55AAAC",
+                "timeStep" : 21,
+                "voteVal" : -2
+              }
+            },
+            "weightedAverage" : -0.75
+          },
+          "2h85mi" : {
+            "interval" : 2000,
+            "startTime" : 1429825606224
+          },
+          "3z0k9" : {
+            "endTime" : 1429781010203,
+            "interval" : 2000,
+            "startTime" : 1429759376824,
+            "userCount" : 1,
+            "votes" : {
+              "-JnZIIFNhijuX6xO5peW" : {
+                "guestId" : "58_xjwtOdkZb56rqAABK",
+                "timeStep" : 15,
+                "voteVal" : 2
+              },
+              "-JnZIJPiEGyCEM4q__Qs" : {
+                "guestId" : "58_xjwtOdkZb56rqAABK",
+                "timeStep" : 17,
+                "voteVal" : -1
+              },
+              "-JnZIK9abySsVWCFLpg1" : {
+                "guestId" : "58_xjwtOdkZb56rqAABK",
+                "timeStep" : 19,
+                "voteVal" : -2
+              },
+              "-JnZIKqqt5X4WDpBEVlZ" : {
+                "guestId" : "58_xjwtOdkZb56rqAABK",
+                "timeStep" : 20,
+                "voteVal" : 2
+              },
+              "-JnZIlqy0FRfciuJF1LR" : {
+                "guestId" : "58_xjwtOdkZb56rqAABK",
+                "timeStep" : 77
+              }
+            },
+            "weightedAverage" : 1.8387096774193548
+          },
+          "4eu3di" : {
+            "endTime" : 1430032436215,
+            "interval" : 2000,
+            "startTime" : 1430030389992,
+            "userCount" : 3,
+            "votes" : {
+              "-JnoSPh9M2JElQzvoUWg" : {
+                "guestId" : "nnHnb7Y9__u1jQsNAAAO",
+                "timeStep" : 52,
+                "voteVal" : 2
+              },
+              "-JnoSQAccxj2CbEbWI9K" : {
+                "guestId" : "nnHnb7Y9__u1jQsNAAAO",
+                "timeStep" : 53,
+                "voteVal" : -2
+              },
+              "-JnoSU3pNaZJ1NKE_HOC" : {
+                "guestId" : "nnHnb7Y9__u1jQsNAAAO",
+                "timeStep" : 61,
+                "voteVal" : 0
+              },
+              "-JnoSUNWf63reD7MgvCv" : {
+                "guestId" : "nnHnb7Y9__u1jQsNAAAO",
+                "timeStep" : 61,
+                "voteVal" : 2
+              },
+              "-JnoSy86Hs9zbOROgAuT" : {
+                "guestId" : "nnHnb7Y9__u1jQsNAAAO",
+                "timeStep" : 124
+              }
+            },
+            "weightedAverage" : 1.5555555555555556
+          },
+          "5hfr" : {
+            "endTime" : 1429580815034,
+            "interval" : 2000,
+            "startTime" : 1429580749131,
+            "userCount" : 3,
+            "votes" : {
+              "-JnOdnoVC0V5AitpuJM-" : {
+                "guestId" : "YdQTT6wHPkOpq1I7AAAD",
+                "timeStep" : 4,
+                "voteVal" : 2
+              },
+              "-JnOdqU_rTXGbD6pW_1T" : {
+                "guestId" : "vLzg4FOCj7MkKmeBAAAM",
+                "timeStep" : 10,
+                "voteVal" : 1
+              },
+              "-JnOdy9m8LwhBjgBblId" : {
+                "guestId" : "WB5uT8oHnbGHspJqAAAN",
+                "timeStep" : 25,
+                "voteVal" : -2
+              },
+              "-JnOe-u00LjQHfo0ioUs" : {
+                "guestId" : "WB5uT8oHnbGHspJqAAAN",
+                "timeStep" : 31,
+                "voteVal" : 2
+              }
+            },
+            "weightedAverage" : 1.1929824561403508
+          },
+          "ctbj4i" : {
+            "endTime" : 1430034637932,
+            "interval" : 2000,
+            "startTime" : 1430034507276,
+            "userCount" : 1,
+            "votes" : {
+              "-JnogsVOSXfCgG4tFKFa" : {
+                "guestId" : "2BNoHvvpDaHPUz1kAAAO",
+                "timeStep" : 20,
+                "voteVal" : 2
+              },
+              "-JnogtGij4JgiYma1v3_" : {
+                "guestId" : "2BNoHvvpDaHPUz1kAAAO",
+                "timeStep" : 22,
+                "voteVal" : 1
+              },
+              "-JnogthejNqiRkSVyH5b" : {
+                "guestId" : "2BNoHvvpDaHPUz1kAAAO",
+                "timeStep" : 23,
+                "voteVal" : -2
+              },
+              "-JnoguBeC19Q_2auaFre" : {
+                "guestId" : "2BNoHvvpDaHPUz1kAAAO",
+                "timeStep" : 24,
+                "voteVal" : 1
+              },
+              "-JnogurR2lIuxUJv7PDy" : {
+                "guestId" : "2BNoHvvpDaHPUz1kAAAO",
+                "timeStep" : 25,
+                "voteVal" : -1
+              },
+              "-JnogvvCP9o7OAp5NeU9" : {
+                "guestId" : "2BNoHvvpDaHPUz1kAAAO",
+                "timeStep" : 27,
+                "voteVal" : 1
+              },
+              "-Jnogwig8T9fm5EOCEdk" : {
+                "guestId" : "2BNoHvvpDaHPUz1kAAAO",
+                "timeStep" : 29,
+                "voteVal" : 2
+              },
+              "-Jnoh-GTr5AZ9yCu6t2p" : {
+                "guestId" : "2BNoHvvpDaHPUz1kAAAO",
+                "timeStep" : 36,
+                "voteVal" : -2
+              },
+              "-Jnoh0F2aK9aL-H5UNdH" : {
+                "guestId" : "2BNoHvvpDaHPUz1kAAAO",
+                "timeStep" : 38,
+                "voteVal" : -1
+              },
+              "-Jnoh0SvGgMz_J2Ia8GS" : {
+                "guestId" : "2BNoHvvpDaHPUz1kAAAO",
+                "timeStep" : 39,
+                "voteVal" : 0
+              },
+              "-Jnoh2v-mDiM0k2GQNOl" : {
+                "guestId" : "2BNoHvvpDaHPUz1kAAAO",
+                "timeStep" : 44,
+                "voteVal" : 1
+              },
+              "-Jnoh3yomxNDP5qQlK1e" : {
+                "guestId" : "2BNoHvvpDaHPUz1kAAAO",
+                "timeStep" : 46,
+                "voteVal" : 2
+              }
+            },
+            "weightedAverage" : 1.1777777777777778
+          },
+          "mon7b9" : {
+            "endTime" : 1429581002323,
+            "interval" : 2000,
+            "startTime" : 1429580926048,
+            "userCount" : 5,
+            "votes" : {
+              "-JnOeUjxOYKg7JEXpWHt" : {
+                "guestId" : "vLzg4FOCj7MkKmeBAAAM",
+                "timeStep" : 6,
+                "voteVal" : -1
+              },
+              "-JnOeUkqZNqrKrfowzQI" : {
+                "guestId" : "WB5uT8oHnbGHspJqAAAN",
+                "timeStep" : 6,
+                "voteVal" : 2
+              },
+              "-JnOeVrK30CovsEB-YR_" : {
+                "guestId" : "FSRX0Oo854aHpSoDAAAQ",
+                "timeStep" : 8,
+                "voteVal" : 2
+              },
+              "-JnOeXjE_jZGG63UycqS" : {
+                "guestId" : "YdQTT6wHPkOpq1I7AAAD",
+                "timeStep" : 12,
+                "voteVal" : -2
+              },
+              "-JnOedB9awJtUmkfaMXb" : {
+                "guestId" : "WB5uT8oHnbGHspJqAAAN",
+                "timeStep" : 25,
+                "voteVal" : -2
+              },
+              "-JnOee537C3M4I6KBW-T" : {
+                "guestId" : "WB5uT8oHnbGHspJqAAAN",
+                "timeStep" : 27,
+                "voteVal" : 2
+              },
+              "-JnOegItTPw-mNDfiu3V" : {
+                "guestId" : "RBHhRA8fE_spASkKAAAS",
+                "timeStep" : 31,
+                "voteVal" : 2
+              },
+              "-JnOeiAQqfcARroBzhfm" : {
+                "guestId" : "vLzg4FOCj7MkKmeBAAAM",
+                "timeStep" : 35,
+                "voteVal" : 2
+              }
+            },
+            "weightedAverage" : 0.4330708661417323
+          },
+          "opqfr" : {
+            "interval" : 2000,
+            "startTime" : 1430017915039
+          },
+          "utyb9" : {
+            "endTime" : 1429581345648,
+            "interval" : 2000,
+            "startTime" : 1429581204268,
+            "userCount" : 3,
+            "votes" : {
+              "-JnOfv5aafOso6kfTtWL" : {
+                "guestId" : "Jp7U5umATr8UWvr8AAAU",
+                "timeStep" : 54,
+                "voteVal" : 2
+              },
+              "-JnOfw9LDt1s3qoQj5FW" : {
+                "guestId" : "Jp7U5umATr8UWvr8AAAU",
+                "timeStep" : 56,
+                "voteVal" : -2
+              },
+              "-JnOfyU9frVSNnVrPabb" : {
+                "guestId" : "Jp7U5umATr8UWvr8AAAU",
+                "timeStep" : 60,
+                "voteVal" : 2
+              },
+              "-JnOfz2hYNeaATzR-iKh" : {
+                "guestId" : "wpMrLRZh-S-45AKdAAAV",
+                "timeStep" : 62,
+                "voteVal" : 2
+              },
+              "-JnOfz2i2xAQs9U2PMG5" : {
+                "guestId" : "wpMrLRZh-S-45AKdAAAV",
+                "timeStep" : 62,
+                "voteVal" : -1
+              },
+              "-JnOg-am_jpKs84KLKJ2" : {
+                "guestId" : "Jp7U5umATr8UWvr8AAAU",
+                "timeStep" : 65
+              },
+              "-JnOg-tK3uBSC36IxGb_" : {
+                "guestId" : "wpMrLRZh-S-45AKdAAAV",
+                "timeStep" : 65
+              },
+              "-JnOg0H6gLFewLbrpcvw" : {
+                "guestId" : "vLzg4FOCj7MkKmeBAAAM",
+                "timeStep" : 66,
+                "voteVal" : 1
+              }
+            },
+            "weightedAverage" : 0.3888888888888889
+          },
+          "wel8fr" : {
+            "interval" : 2000,
+            "startTime" : 1429581378376,
+            "votes" : {
+              "-JnOhBYtEBnKOI7rvVB0" : {
+                "guestId" : "qE2cxoWq5IpXdmylAAAW",
+                "timeStep" : 133,
+                "voteVal" : 2
+              },
+              "-JnOhDQO7ZIytGKLmLti" : {
+                "guestId" : "qE2cxoWq5IpXdmylAAAW",
+                "timeStep" : 137,
+                "voteVal" : 1
+              },
+              "-JnOhEgSapA5uP7ca_Yq" : {
+                "guestId" : "qE2cxoWq5IpXdmylAAAW",
+                "timeStep" : 140
+              },
+              "-JnOhExptnyDsdYhMrFd" : {
+                "guestId" : "12OAhem_fyYNrWmEAAAX",
+                "timeStep" : 140,
+                "voteVal" : 1
+              },
+              "-JnOhEzNCgVrn4a0wqh4" : {
+                "guestId" : "12OAhem_fyYNrWmEAAAX",
+                "timeStep" : 140,
+                "voteVal" : 2
+              },
+              "-JnOhF9myv7q4wE2G4hT" : {
+                "guestId" : "12OAhem_fyYNrWmEAAAX",
+                "timeStep" : 141,
+                "voteVal" : -2
+              },
+              "-JnOhFQQIjkYC53tO8e3" : {
+                "guestId" : "12OAhem_fyYNrWmEAAAX",
+                "timeStep" : 141,
+                "voteVal" : 0
+              },
+              "-JnOhFmbMfTOgdivG_I0" : {
+                "guestId" : "12OAhem_fyYNrWmEAAAX",
+                "timeStep" : 142,
+                "voteVal" : 1
+              },
+              "-JnOhGA6h2s7Rk5DJY2F" : {
+                "guestId" : "12OAhem_fyYNrWmEAAAX",
+                "timeStep" : 143
+              },
+              "-JnOhGKNqw5SxvOpicBC" : {
+                "guestId" : "qE2cxoWq5IpXdmylAAAW",
+                "timeStep" : 143,
+                "voteVal" : 2
+              },
+              "-JnOhHCj3rDpdfSi7q7q" : {
+                "guestId" : "qE2cxoWq5IpXdmylAAAW",
+                "timeStep" : 145
+              },
+              "-JnOhHyLA0h1b2Y037NZ" : {
+                "guestId" : "qE2cxoWq5IpXdmylAAAW",
+                "timeStep" : 146,
+                "voteVal" : 2
+              },
+              "-JnOhIUTN1U48fm8DK8t" : {
+                "guestId" : "12OAhem_fyYNrWmEAAAX",
+                "timeStep" : 147,
+                "voteVal" : 1
+              },
+              "-JnOhIXVsMHAgUGjBPyK" : {
+                "guestId" : "qE2cxoWq5IpXdmylAAAW",
+                "timeStep" : 148,
+                "voteVal" : -2
+              },
+              "-JnOhJfjg-661WT03hAs" : {
+                "guestId" : "12OAhem_fyYNrWmEAAAX",
+                "timeStep" : 150,
+                "voteVal" : 2
+              },
+              "-JnOhK0Nhc1pL_ZlmFJi" : {
+                "guestId" : "qE2cxoWq5IpXdmylAAAW",
+                "timeStep" : 151,
+                "voteVal" : 2
+              },
+              "-JnOhQvg36kHpahIYYf6" : {
+                "guestId" : "fNehSedGPbTmPVAjAAAZ",
+                "timeStep" : 165,
+                "voteVal" : 1
+              },
+              "-JnOhZJfhRlNKR-VOeJo" : {
+                "guestId" : "fNehSedGPbTmPVAjAAAZ",
+                "timeStep" : 182,
+                "voteVal" : 0
+              },
+              "-JnOhZauXvrX0z1qma3z" : {
+                "guestId" : "fNehSedGPbTmPVAjAAAZ",
+                "timeStep" : 182,
+                "voteVal" : 1
+              },
+              "-JnOhgxluabOzM7Km95P" : {
+                "guestId" : "qE2cxoWq5IpXdmylAAAW",
+                "timeStep" : 200
+              },
+              "-JnOii10CnP7aVlY1ADN" : {
+                "guestId" : "12OAhem_fyYNrWmEAAAX",
+                "timeStep" : 333
+              },
+              "-JnOk5ye4CjrnYrG73pG" : {
+                "guestId" : "CtMYSEuEIEflYGHZAAAd",
+                "timeStep" : 515,
+                "voteVal" : 0
+              },
+              "-JnOk7T-6P58S_3_IOvM" : {
+                "guestId" : "CtMYSEuEIEflYGHZAAAd",
+                "timeStep" : 518,
+                "voteVal" : 1
+              },
+              "-JnOkSD9OU547F8b4-90" : {
+                "guestId" : "CtMYSEuEIEflYGHZAAAd",
+                "timeStep" : 560
+              },
+              "-JnOlHuEsDkrHX8hC6KW" : {
+                "guestId" : "fNehSedGPbTmPVAjAAAZ",
+                "timeStep" : 670
+              }
+            }
+          },
+          "yh9f6r" : {
+            "interval" : 2000,
+            "startTime" : 1429583655629,
+            "votes" : {
+              "-JnOovaLQbvMUR4OrQhB" : {
+                "guestId" : "fqWjEs4aTHkRwSZcAAAs",
+                "timeStep" : 9,
+                "voteVal" : 1
+              },
+              "-JnOowwkEeSde4SEWVT2" : {
+                "guestId" : "fqWjEs4aTHkRwSZcAAAs",
+                "timeStep" : 11,
+                "voteVal" : 2
+              },
+              "-JnOoy3vhm733I_ZoKbG" : {
+                "guestId" : "fqWjEs4aTHkRwSZcAAAs",
+                "timeStep" : 14
+              },
+              "-JnOuFYcuCJwSZZr9G2R" : {
+                "guestId" : "Az4OVcypFX1ohB-eAAA3",
+                "timeStep" : 706,
+                "voteVal" : 2
+              },
+              "-JnOujFpfvzJyF07v3Cw" : {
+                "guestId" : "Az4OVcypFX1ohB-eAAA3",
+                "timeStep" : 769
+              }
+            }
+          }
+        }
+      },
+      "10152882294028403" : {
+        "displayName" : "Janessa Link",
+        "sessions" : {
+          "1lwhfr" : {
+            "endTime" : 1435356718754,
+            "userCount" : 3,
+            "weightedAverage" : 1.3673893673893673
+          },
+          "6wdn29" : {
+            "endTime" : 1435351780241,
+            "interval" : 2000,
+            "startTime" : 1435347100919,
+            "userCount" : 14,
+            "votes" : {
+              "-JslLia82RiHCZHa0D4-" : {
+                "guestId" : "JbplJQrd0zzVHYHgAAAW",
+                "timeStep" : 8,
+                "voteVal" : 2
+              },
+              "-JslLkNUyHvsEi8aFBkl" : {
+                "guestId" : "27f50l8eSpwlfe-fAAAX",
+                "timeStep" : 12,
+                "voteVal" : 2
+              },
+              "-JslLmYt3WBNj67HUUC-" : {
+                "guestId" : "b7GJofMPZnTfq4Q1AAAY",
+                "timeStep" : 16,
+                "voteVal" : 2
+              },
+              "-JslLoPjpR5B5gXF1Gh7" : {
+                "guestId" : "aX4VCOeTJ2KLAHH4AAAZ",
+                "timeStep" : 20,
+                "voteVal" : 1
+              },
+              "-JslOUKh1hQPWnz2XtuL" : {
+                "guestId" : "b7GJofMPZnTfq4Q1AAAY",
+                "timeStep" : 370
+              },
+              "-JslOVHGTy0mCWComWBa" : {
+                "guestId" : "27f50l8eSpwlfe-fAAAX",
+                "timeStep" : 372
+              },
+              "-JslOWm3agX4XyCTb3Mj" : {
+                "guestId" : "aX4VCOeTJ2KLAHH4AAAZ",
+                "timeStep" : 375
+              },
+              "-JslOYyfnXxxKBc_-Vbe" : {
+                "guestId" : "JbplJQrd0zzVHYHgAAAW",
+                "timeStep" : 380
+              },
+              "-JslaN_iGKbp44sbWZ_5" : {
+                "guestId" : "vG_eHutQyKOm5xPwAAAk",
+                "timeStep" : 2059,
+                "voteVal" : 1
+              },
+              "-JslaOBBJZFSmFhb-AxD" : {
+                "guestId" : "Greb3cpQ-gcBb3ObAAAj",
+                "timeStep" : 2060,
+                "voteVal" : 1
+              },
+              "-JslaOg3XjnX1Euq8g-R" : {
+                "guestId" : "uR7leywgZRNm7K7dAAAi",
+                "timeStep" : 2061,
+                "voteVal" : 0
+              },
+              "-JslaPASSjHrr3_mzDaJ" : {
+                "guestId" : "fZsvvxAf8Rgj6RgAAAAl",
+                "timeStep" : 2062,
+                "voteVal" : 1
+              },
+              "-JslacUTs1q0JJF0I1TW" : {
+                "guestId" : "fZsvvxAf8Rgj6RgAAAAl",
+                "timeStep" : 2091,
+                "voteVal" : 0
+              },
+              "-JsladUaW0mcDrOu9qZS" : {
+                "guestId" : "Greb3cpQ-gcBb3ObAAAj",
+                "timeStep" : 2093,
+                "voteVal" : 0
+              },
+              "-Jslb5zDRAaG9q14aGq3" : {
+                "guestId" : "vG_eHutQyKOm5xPwAAAk",
+                "timeStep" : 2154,
+                "voteVal" : 2
+              },
+              "-Jslb6vWC2EyhtLbceHa" : {
+                "guestId" : "Greb3cpQ-gcBb3ObAAAj",
+                "timeStep" : 2155,
+                "voteVal" : 1
+              },
+              "-Jslb7K01vFFTauI_dcj" : {
+                "guestId" : "uR7leywgZRNm7K7dAAAi",
+                "timeStep" : 2156,
+                "voteVal" : 1
+              },
+              "-Jslb83KGwKu1xcAOOVP" : {
+                "guestId" : "fZsvvxAf8Rgj6RgAAAAl",
+                "timeStep" : 2158,
+                "voteVal" : 2
+              },
+              "-JslbzavB_FfmhNf7lIs" : {
+                "guestId" : "vG_eHutQyKOm5xPwAAAk",
+                "timeStep" : 2269,
+                "voteVal" : 1
+              },
+              "-Jslc-TlGXh95sZv5u9I" : {
+                "guestId" : "uR7leywgZRNm7K7dAAAi",
+                "timeStep" : 2271,
+                "voteVal" : 0
+              },
+              "-Jslc0pOVyTJmQf0GFu7" : {
+                "guestId" : "fZsvvxAf8Rgj6RgAAAAl",
+                "timeStep" : 2274,
+                "voteVal" : 1
+              },
+              "-JslcQXH_lzGsEIDi_Bt" : {
+                "guestId" : "fZsvvxAf8Rgj6RgAAAAl",
+                "timeStep" : 2326,
+                "voteVal" : 2
+              },
+              "-JslcRVatWYIhT5bV3-3" : {
+                "guestId" : "uR7leywgZRNm7K7dAAAi",
+                "timeStep" : 2328,
+                "voteVal" : 1
+              },
+              "-JslcT4uJrRtm4CMxlCV" : {
+                "guestId" : "uR7leywgZRNm7K7dAAAi",
+                "timeStep" : 2332,
+                "voteVal" : 2
+              }
+            },
+            "weightedAverage" : 1.4130349430702787
+          },
+          "bq33di" : {
+            "endTime" : 1429641819100,
+            "interval" : 2000,
+            "startTime" : 1429641713892,
+            "userCount" : 2,
+            "votes" : {
+              "-JnSHNyG61sLwQVtbNRh" : {
+                "guestId" : "N2St5M7L_4DiUnw7AAA6",
+                "timeStep" : 7,
+                "voteVal" : 2
+              },
+              "-JnSHVJAH59k3pjuG_h1" : {
+                "guestId" : "wsTS71mzj8_dJ76KAAA7",
+                "timeStep" : 22,
+                "voteVal" : 0
+              },
+              "-JnSHcOMctvbZWe0DGuz" : {
+                "guestId" : "wsTS71mzj8_dJ76KAAA7",
+                "timeStep" : 38,
+                "voteVal" : -2
+              },
+              "-JnSHdFJ2os0Yzd1UiJ6" : {
+                "guestId" : "wsTS71mzj8_dJ76KAAA7",
+                "timeStep" : 40,
+                "voteVal" : -1
+              },
+              "-JnSHeEU4yEhub1QjLH_" : {
+                "guestId" : "wsTS71mzj8_dJ76KAAA7",
+                "timeStep" : 42,
+                "voteVal" : -2
+              },
+              "-JnSHi7ronnGcH5e-yvt" : {
+                "guestId" : "wsTS71mzj8_dJ76KAAA7",
+                "timeStep" : 50,
+                "voteVal" : 2
+              }
+            },
+            "weightedAverage" : 0.96
+          },
+          "gvte29" : {
+            "interval" : 2000,
+            "startTime" : 1437586324981
+          },
+          "hp733xwvmzrara4i" : {
+            "endTime" : 1438106583641,
+            "interval" : 2000,
+            "startTime" : 1438106064335,
+            "userCount" : 3,
+            "votes" : {
+              "-JvKnK0uEFvTy2yu9GpC" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 7,
+                "voteVal" : 1
+              },
+              "-JvKnL8h7dEeBWfebbgz" : {
+                "guestId" : "Ohj3XUTHZz_vFLVlAAAD",
+                "timeStep" : 9,
+                "voteVal" : 1
+              },
+              "-JvKnMOW6_y3agKK2JFO" : {
+                "guestId" : "1FkFsqcpYPVf7pdbAAAE",
+                "timeStep" : 12,
+                "voteVal" : 1
+              },
+              "-JvKnScJ5t0Fts-58vob" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 25,
+                "voteVal" : 2
+              },
+              "-JvKnT2AO2K1Y7KZBlDI" : {
+                "guestId" : "Ohj3XUTHZz_vFLVlAAAD",
+                "timeStep" : 26,
+                "voteVal" : 2
+              },
+              "-JvKnTYm8sS3a6ZShIQc" : {
+                "guestId" : "1FkFsqcpYPVf7pdbAAAE",
+                "timeStep" : 27,
+                "voteVal" : 2
+              },
+              "-JvKncH39jR8L952z17p" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 46,
+                "voteVal" : 0
+              },
+              "-JvKncruvCR2jq48LS96" : {
+                "guestId" : "Ohj3XUTHZz_vFLVlAAAD",
+                "timeStep" : 48,
+                "voteVal" : 0
+              },
+              "-JvKndNaOafL7AwtzPqe" : {
+                "guestId" : "1FkFsqcpYPVf7pdbAAAE",
+                "timeStep" : 49,
+                "voteVal" : 0
+              },
+              "-JvKnkj2eKky8x01lwYI" : {
+                "guestId" : "1FkFsqcpYPVf7pdbAAAE",
+                "timeStep" : 64,
+                "voteVal" : 1
+              },
+              "-JvKnlDwGvuIwCqcirDm" : {
+                "guestId" : "Ohj3XUTHZz_vFLVlAAAD",
+                "timeStep" : 65,
+                "voteVal" : 2
+              },
+              "-JvKnli--WZKvInGJSzS" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 66,
+                "voteVal" : 1
+              },
+              "-JvKnyCnuVwdbtjLcjdG" : {
+                "guestId" : "1FkFsqcpYPVf7pdbAAAE",
+                "timeStep" : 91,
+                "voteVal" : 0
+              },
+              "-JvKnyoemp1_nJetZMCQ" : {
+                "guestId" : "Ohj3XUTHZz_vFLVlAAAD",
+                "timeStep" : 93,
+                "voteVal" : -1
+              },
+              "-JvKnzS3ZWDsgWdkR5GM" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 94,
+                "voteVal" : 0
+              },
+              "-JvKo5H-7WtumOGqFgwj" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 108,
+                "voteVal" : 1
+              },
+              "-JvKo5q7uGWsDMLDQvAa" : {
+                "guestId" : "Ohj3XUTHZz_vFLVlAAAD",
+                "timeStep" : 109,
+                "voteVal" : 0
+              },
+              "-JvKo6JFwAHla-7Ajvjl" : {
+                "guestId" : "1FkFsqcpYPVf7pdbAAAE",
+                "timeStep" : 110,
+                "voteVal" : 1
+              },
+              "-JvKo9PdREC4zGkrGnOn" : {
+                "guestId" : "Ohj3XUTHZz_vFLVlAAAD",
+                "timeStep" : 116,
+                "voteVal" : 2
+              },
+              "-JvKo9pqtsD3DN7MJcyg" : {
+                "guestId" : "1FkFsqcpYPVf7pdbAAAE",
+                "timeStep" : 117,
+                "voteVal" : 2
+              },
+              "-JvKoBhY4zr62gU5Jced" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 121,
+                "voteVal" : 2
+              },
+              "-JvKoD6bIPOSrfsVD6Dk" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 124,
+                "voteVal" : 1
+              },
+              "-JvKoF7VRZvQEiX1SFjv" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 128,
+                "voteVal" : 0
+              },
+              "-JvKoFh11uRjaVVK0HQD" : {
+                "guestId" : "Ohj3XUTHZz_vFLVlAAAD",
+                "timeStep" : 129,
+                "voteVal" : 1
+              },
+              "-JvKoGPayel5gJ4D9BVK" : {
+                "guestId" : "1FkFsqcpYPVf7pdbAAAE",
+                "timeStep" : 131,
+                "voteVal" : 1
+              },
+              "-JvKoNsi9O55aDOUM2Zv" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 146,
+                "voteVal" : 1
+              },
+              "-JvKoOMhWwCqJiMFB6ge" : {
+                "guestId" : "Ohj3XUTHZz_vFLVlAAAD",
+                "timeStep" : 147,
+                "voteVal" : 2
+              },
+              "-JvKoOt0MF6Jum-xwoAY" : {
+                "guestId" : "1FkFsqcpYPVf7pdbAAAE",
+                "timeStep" : 148,
+                "voteVal" : 2
+              },
+              "-JvKoSBbhBfGyDplxGVu" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 155,
+                "voteVal" : 0
+              },
+              "-JvKoSj5aPgpAgBhlBty" : {
+                "guestId" : "Ohj3XUTHZz_vFLVlAAAD",
+                "timeStep" : 156,
+                "voteVal" : 1
+              },
+              "-JvKoTAF-1lNAoUBgcLc" : {
+                "guestId" : "1FkFsqcpYPVf7pdbAAAE",
+                "timeStep" : 157,
+                "voteVal" : 1
+              },
+              "-JvKoUTd8Ar39zpAlRuV" : {
+                "guestId" : "1FkFsqcpYPVf7pdbAAAE",
+                "timeStep" : 159,
+                "voteVal" : 0
+              },
+              "-JvKoVvCx6RRfGSwJbmE" : {
+                "guestId" : "Ohj3XUTHZz_vFLVlAAAD",
+                "timeStep" : 162
+              },
+              "-JvKoZuFwaHj-bK9nyds" : {
+                "guestId" : "Ohj3XUTHZz_vFLVlAAAD",
+                "timeStep" : 170,
+                "voteVal" : 2
+              },
+              "-JvKo_JcsGR6Web7Rcen" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 171,
+                "voteVal" : 2
+              },
+              "-JvKo_lOAP_Y8KDbFoFt" : {
+                "guestId" : "1FkFsqcpYPVf7pdbAAAE",
+                "timeStep" : 172,
+                "voteVal" : 1
+              },
+              "-JvKobbNLCIv96RWgEPF" : {
+                "guestId" : "1FkFsqcpYPVf7pdbAAAE",
+                "timeStep" : 176
+              },
+              "-JvKognBEOTMZFiuqxjx" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 187,
+                "voteVal" : -2
+              },
+              "-JvKohJMOrGSNNUVD7M2" : {
+                "guestId" : "Ohj3XUTHZz_vFLVlAAAD",
+                "timeStep" : 188,
+                "voteVal" : -1
+              },
+              "-JvKoi39M9GH1u8-im33" : {
+                "guestId" : "1FkFsqcpYPVf7pdbAAAE",
+                "timeStep" : 189,
+                "voteVal" : -1
+              },
+              "-JvKow8vqyBKc0VX_rSK" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 218,
+                "voteVal" : 0
+              },
+              "-JvKowgL1-P8N48kFTg-" : {
+                "guestId" : "Ohj3XUTHZz_vFLVlAAAD",
+                "timeStep" : 219,
+                "voteVal" : 0
+              },
+              "-JvKoxHlpevB-7VK_1Bd" : {
+                "guestId" : "1FkFsqcpYPVf7pdbAAAE",
+                "timeStep" : 220,
+                "voteVal" : 0
+              },
+              "-JvKpB8LTexqa61PZ6v3" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 251,
+                "voteVal" : 1
+              },
+              "-JvKpBk4B3FDZR7EV3zK" : {
+                "guestId" : "Ohj3XUTHZz_vFLVlAAAD",
+                "timeStep" : 252,
+                "voteVal" : 1
+              },
+              "-JvKpCMA0t6iGsfIWzB_" : {
+                "guestId" : "1FkFsqcpYPVf7pdbAAAE",
+                "timeStep" : 253,
+                "voteVal" : 1
+              }
+            },
+            "weightedAverage" : 0.5714285714285714
+          },
+          "llq5mi" : {
+            "endTime" : 1429586489246,
+            "interval" : 2000,
+            "startTime" : 1429586383793,
+            "userCount" : 1,
+            "votes" : {
+              "-JnOzLSx5v7xunalnJMl" : {
+                "guestId" : "ynxcSNzG9YXR6L2bAABC",
+                "timeStep" : 10,
+                "voteVal" : 2
+              },
+              "-JnOzQSS4RB3kID2YH0m" : {
+                "guestId" : "ynxcSNzG9YXR6L2bAABC",
+                "timeStep" : 20
+              },
+              "-JnOzRJAadGm-i21t6kc" : {
+                "guestId" : "ynxcSNzG9YXR6L2bAABC",
+                "timeStep" : 22,
+                "voteVal" : -2
+              },
+              "-JnOzUi61PgLn7nw6DCx" : {
+                "guestId" : "ynxcSNzG9YXR6L2bAABC",
+                "timeStep" : 29,
+                "voteVal" : 0
+              },
+              "-JnOzVaZOgyoQ14-oILs" : {
+                "guestId" : "ynxcSNzG9YXR6L2bAABC",
+                "timeStep" : 31
+              },
+              "-JnOzYEdan1ALTUKSMdu" : {
+                "guestId" : "ynxcSNzG9YXR6L2bAABC",
+                "timeStep" : 36,
+                "voteVal" : 1
+              }
+            },
+            "weightedAverage" : 0.6285714285714286
+          },
+          "mroastco0yl4ygb9" : {
+            "endTime" : 1438035303962,
+            "interval" : 2000,
+            "startTime" : 1438035140946,
+            "userCount" : 3,
+            "votes" : {
+              "-JvGZr2VCE5PWlDg5cWQ" : {
+                "guestId" : "3s5Nd5ladbMAW0BOAAAB",
+                "timeStep" : 18,
+                "voteVal" : 2
+              },
+              "-JvGZv19urGsW3LiAkjq" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 26,
+                "voteVal" : 2
+              },
+              "-JvGZyMkt6BZhemLzbx4" : {
+                "guestId" : "Ohj3XUTHZz_vFLVlAAAD",
+                "timeStep" : 33,
+                "voteVal" : 2
+              },
+              "-JvG_5vsn7uztM868YbZ" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 50,
+                "voteVal" : 1
+              },
+              "-JvG_Br35mHG4vcI28Iu" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 62,
+                "voteVal" : 2
+              },
+              "-JvG_DIdyJglifMQ2N40" : {
+                "guestId" : "3s5Nd5ladbMAW0BOAAAB",
+                "timeStep" : 65,
+                "voteVal" : 0
+              },
+              "-JvG_DsjUYlz357hhyMG" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 67,
+                "voteVal" : 0
+              },
+              "-JvG_EX-eQ4dHIu7pTf0" : {
+                "guestId" : "Ohj3XUTHZz_vFLVlAAAD",
+                "timeStep" : 68,
+                "voteVal" : 0
+              },
+              "-JvG_IGDHoTyr1W3jOgd" : {
+                "guestId" : "3s5Nd5ladbMAW0BOAAAB",
+                "timeStep" : 76,
+                "voteVal" : 2
+              },
+              "-JvG_IisWXCpkbWcfZxU" : {
+                "guestId" : "AIVuF0U-Plelo1jZAAAC",
+                "timeStep" : 77,
+                "voteVal" : 2
+              },
+              "-JvG_J9DVF4ctc-FLYzn" : {
+                "guestId" : "Ohj3XUTHZz_vFLVlAAAD",
+                "timeStep" : 77,
+                "voteVal" : 1
+              }
+            },
+            "weightedAverage" : 1.5421686746987953
+          },
+          "ps0pb9" : {
+            "interval" : 2000,
+            "startTime" : 1429586509659
+          },
+          "xrbe29" : {
+            "endTime" : 1434494544397,
+            "interval" : 2000,
+            "startTime" : 1434494489336,
+            "userCount" : 1,
+            "votes" : {
+              "-JryXFrLGWc0CYOcPmQn" : {
+                "guestId" : "iNsT6igH_odaWEl2AAAP",
+                "timeStep" : 7,
+                "voteVal" : 0
+              },
+              "-JryXGxCoYJIMHMA8-rN" : {
+                "guestId" : "iNsT6igH_odaWEl2AAAP",
+                "timeStep" : 9,
+                "voteVal" : 1
+              },
+              "-JryXHSCkALNmaMCLY_Z" : {
+                "guestId" : "iNsT6igH_odaWEl2AAAP",
+                "timeStep" : 10,
+                "voteVal" : 2
+              },
+              "-JryXJrZfZBYpW0TSt0W" : {
+                "guestId" : "iNsT6igH_odaWEl2AAAP",
+                "timeStep" : 15,
+                "voteVal" : 0
+              },
+              "-JryXL-HG24eRW41rm2w" : {
+                "guestId" : "iNsT6igH_odaWEl2AAAP",
+                "timeStep" : 18,
+                "voteVal" : 1
+              },
+              "-JryXMY_H5uQEXeT4zl5" : {
+                "guestId" : "iNsT6igH_odaWEl2AAAP",
+                "timeStep" : 21,
+                "voteVal" : 0
+              },
+              "-JryXMoLRc4L9VearjLR" : {
+                "guestId" : "iNsT6igH_odaWEl2AAAP",
+                "timeStep" : 21,
+                "voteVal" : -1
+              }
+            },
+            "weightedAverage" : 0.4
+          },
+          "yi7ldi" : {
+            "endTime" : 1429639378716,
+            "interval" : 2000,
+            "startTime" : 1429639255483,
+            "userCount" : 5,
+            "votes" : {
+              "-JnS80iNExQnkt_amylA" : {
+                "guestId" : "-1NfOLEeUgrGBCgkAAAu",
+                "timeStep" : 8,
+                "voteVal" : 2
+              },
+              "-JnS87fJ1KdQREqSiVMU" : {
+                "guestId" : "9Yw2S2HKSm4c02O9AAAv",
+                "timeStep" : 23,
+                "voteVal" : 2
+              },
+              "-JnS8901-ADeu2B_X_AZ" : {
+                "guestId" : "9Yw2S2HKSm4c02O9AAAv",
+                "timeStep" : 25,
+                "voteVal" : 1
+              },
+              "-JnS8ATolsirFTnCUQ6v" : {
+                "guestId" : "9Yw2S2HKSm4c02O9AAAv",
+                "timeStep" : 28,
+                "voteVal" : 0
+              },
+              "-JnS8Bd5kZFOrK1Hpjz8" : {
+                "guestId" : "9Yw2S2HKSm4c02O9AAAv",
+                "timeStep" : 31,
+                "voteVal" : -2
+              },
+              "-JnS8DZLy-scBlnu4mO9" : {
+                "guestId" : "HunF1vyjXlqWJf8IAAAx",
+                "timeStep" : 35,
+                "voteVal" : 0
+              },
+              "-JnS8Di-kUTvBAI5BtnF" : {
+                "guestId" : "aUMi2ZiP1pRDyiVuAAAw",
+                "timeStep" : 35,
+                "voteVal" : 2
+              },
+              "-JnS8G5ZkocF3mBawQh7" : {
+                "guestId" : "aUMi2ZiP1pRDyiVuAAAw",
+                "timeStep" : 40,
+                "voteVal" : -2
+              },
+              "-JnS8GBWBhKEMUiF4pIJ" : {
+                "guestId" : "Lk71i8avT7wto4Y3AAAy",
+                "timeStep" : 40,
+                "voteVal" : 1
+              },
+              "-JnS8GjM_Clt-GLEOVCr" : {
+                "guestId" : "Lk71i8avT7wto4Y3AAAy",
+                "timeStep" : 41,
+                "voteVal" : 2
+              },
+              "-JnS8H1bK0VSidRSZkee" : {
+                "guestId" : "9Yw2S2HKSm4c02O9AAAv",
+                "timeStep" : 42,
+                "voteVal" : 2
+              },
+              "-JnS8Hg6RDUiEozFPuB5" : {
+                "guestId" : "HunF1vyjXlqWJf8IAAAx",
+                "timeStep" : 43,
+                "voteVal" : -2
+              },
+              "-JnS8IDCEJLdC2_vigL1" : {
+                "guestId" : "aUMi2ZiP1pRDyiVuAAAw",
+                "timeStep" : 44,
+                "voteVal" : 2
+              },
+              "-JnS8JdupFcmngYlK1L5" : {
+                "guestId" : "HunF1vyjXlqWJf8IAAAx",
+                "timeStep" : 47,
+                "voteVal" : 2
+              },
+              "-JnS8Jn6Vnb-YwILApl3" : {
+                "guestId" : "Lk71i8avT7wto4Y3AAAy",
+                "timeStep" : 47,
+                "voteVal" : 1
+              },
+              "-JnS8KE5m7u_HhWeUSW8" : {
+                "guestId" : "Lk71i8avT7wto4Y3AAAy",
+                "timeStep" : 48,
+                "voteVal" : 2
+              },
+              "-JnS8Kyu4V3l1ZXBsgX2" : {
+                "guestId" : "Lk71i8avT7wto4Y3AAAy",
+                "timeStep" : 50,
+                "voteVal" : 1
+              },
+              "-JnS8LEZ-ch5OndfXGkx" : {
+                "guestId" : "Lk71i8avT7wto4Y3AAAy",
+                "timeStep" : 50
+              },
+              "-JnS8LZFg1MKsBekyJov" : {
+                "guestId" : "Lk71i8avT7wto4Y3AAAy",
+                "timeStep" : 51,
+                "voteVal" : 0
+              },
+              "-JnS8LpuMoBWjXhBrgVf" : {
+                "guestId" : "HunF1vyjXlqWJf8IAAAx",
+                "timeStep" : 52,
+                "voteVal" : 0
+              }
+            },
+            "weightedAverage" : 1.1349693251533743
+          }
+        }
+      },
+      "10152944276699412" : {
+        "displayName" : "Bryan Lee",
+        "sessions" : {
+          "1wz5mi" : {
+            "interval" : 2000,
+            "startTime" : 1429637904430
+          }
+        }
+      },
+      "10203516346458942" : {
+        "displayName" : "Joseph Pei",
+        "sessions" : {
+          "35l8fr" : {
+            "endTime" : 1429608261752,
+            "interval" : 2000,
+            "startTime" : 1429586627859,
+            "userCount" : 1,
+            "votes" : {
+              "-JnP-Ox_-YH14k60hGul" : {
+                "guestId" : "SPW1yI1Ysz7gVTGPAAAD",
+                "timeStep" : 26,
+                "voteVal" : 2
+              },
+              "-JnP-V4fePD6A4INgeI9" : {
+                "guestId" : "SPW1yI1Ysz7gVTGPAAAD",
+                "timeStep" : 39
+              }
+            },
+            "weightedAverage" : 2
+          },
+          "3lq5mi" : {
+            "interval" : 2000,
+            "startTime" : 1429586643414
+          },
+          "49rudi" : {
+            "endTime" : 1430195534925,
+            "interval" : 2000,
+            "startTime" : 1430173899443,
+            "userCount" : 1,
+            "votes" : {
+              "-Jnx-WjzDzRuC_ns6xqb" : {
+                "guestId" : "N47bbYFiSZXPjOLYAAAb",
+                "timeStep" : 8,
+                "voteVal" : 2
+              },
+              "-Jnx-aBovT-ziO0XPk6k" : {
+                "guestId" : "N47bbYFiSZXPjOLYAAAb",
+                "timeStep" : 17
+              },
+              "-Jnx-aJHZ3RG7u9ATMzO" : {
+                "guestId" : "N47bbYFiSZXPjOLYAAAb",
+                "timeStep" : 17,
+                "voteVal" : 1
+              },
+              "-Jnx-dPDjekBtzaV3nbJ" : {
+                "guestId" : "N47bbYFiSZXPjOLYAAAb",
+                "timeStep" : 24
+              }
+            },
+            "weightedAverage" : 1.5625
+          },
+          "e97ldi" : {
+            "endTime" : 1433229817451,
+            "interval" : 2000,
+            "startTime" : 1433208184234,
+            "userCount" : 1,
+            "votes" : {
+              "-JqlrSdII2LWk45sfVgf" : {
+                "guestId" : "HU65aUPGQhqkLP7DAAAN",
+                "timeStep" : 15,
+                "voteVal" : 1
+              },
+              "-JqlrYb3CMokuaw5ROpN" : {
+                "guestId" : "HU65aUPGQhqkLP7DAAAN",
+                "timeStep" : 28,
+                "voteVal" : -1
+              },
+              "-JqlrYmu6O0CZaonS_f0" : {
+                "guestId" : "HU65aUPGQhqkLP7DAAAN",
+                "timeStep" : 28,
+                "voteVal" : 1
+              },
+              "-JqlrYuxHO_ZfehvO3Mk" : {
+                "guestId" : "HU65aUPGQhqkLP7DAAAN",
+                "timeStep" : 28,
+                "voteVal" : 2
+              },
+              "-JqlrZ341ASD-5WZoTr2" : {
+                "guestId" : "HU65aUPGQhqkLP7DAAAN",
+                "timeStep" : 29,
+                "voteVal" : 1
+              },
+              "-JqlrczUvAU20JAIPMG1" : {
+                "guestId" : "HU65aUPGQhqkLP7DAAAN",
+                "timeStep" : 39,
+                "voteVal" : -2
+              },
+              "-JqlrdIvJGBXcFxtnoi-" : {
+                "guestId" : "HU65aUPGQhqkLP7DAAAN",
+                "timeStep" : 39,
+                "voteVal" : 1
+              },
+              "-JqlrjbNICIAI7nQX_gg" : {
+                "guestId" : "HU65aUPGQhqkLP7DAAAN",
+                "timeStep" : 52
+              }
+            },
+            "weightedAverage" : 1.027027027027027
+          },
+          "lgcik9" : {
+            "endTime" : 1432088817663,
+            "interval" : 2000,
+            "startTime" : 1432067186783,
+            "userCount" : 2,
+            "votes" : {
+              "-JphqpDw-WUchVyXkz0_" : {
+                "guestId" : "mSQPlj5u7VgyS0rkAAAB",
+                "timeStep" : 6,
+                "voteVal" : 1
+              },
+              "-JphrD5-GKV_4i97FtsV" : {
+                "guestId" : "mSQPlj5u7VgyS0rkAAAB",
+                "timeStep" : 57
+              }
+            },
+            "weightedAverage" : 1
+          }
+        }
+      },
+      "10204407061271738" : {
+        "displayName" : "Zoe Holmes-Higgin",
+        "sessions" : {
+          "edygb9" : {
+            "endTime" : 1430103389992,
+            "interval" : 2000,
+            "startTime" : 1430103321891,
+            "userCount" : 1,
+            "votes" : {
+              "-JnsnK1kPaHMAarhQTS9" : {
+                "guestId" : "Gl-t05RMLyGyTJfvAAAS",
+                "timeStep" : 12,
+                "voteVal" : 2
+              },
+              "-JnsnL7JEpAQMyt12Gu-" : {
+                "guestId" : "Gl-t05RMLyGyTJfvAAAS",
+                "timeStep" : 14,
+                "voteVal" : -2
+              },
+              "-JnsnNQ2H84WdOulixIm" : {
+                "guestId" : "Gl-t05RMLyGyTJfvAAAS",
+                "timeStep" : 19,
+                "voteVal" : 0
+              },
+              "-JnsnO7nJgHDFzcrvEAl" : {
+                "guestId" : "Gl-t05RMLyGyTJfvAAAS",
+                "timeStep" : 21,
+                "voteVal" : 2
+              }
+            },
+            "weightedAverage" : 0.9090909090909091
+          }
+        }
+      },
+      "10206315581992191" : {
+        "displayName" : "Ben Pevsner",
+        "sessions" : {
+          "0zfr" : {
+            "interval" : 2000,
+            "startTime" : 1430028977498,
+            "votes" : {
+              "-JnoMiHNyPe8b7q_HaMp" : {
+                "guestId" : "dFGm9Libc_xpDuUFAAAK",
+                "timeStep" : 12,
+                "voteVal" : 1
+              },
+              "-JnoMiUwATj9zGOqqV1W" : {
+                "guestId" : "dFGm9Libc_xpDuUFAAAK",
+                "timeStep" : 12,
+                "voteVal" : 2
+              },
+              "-JnoNGBm7ggZ6y6TxUgN" : {
+                "guestId" : "dFGm9Libc_xpDuUFAAAK",
+                "timeStep" : 83
+              }
+            }
+          },
+          "6u5wmi" : {
+            "endTime" : 1437444989953,
+            "interval" : 2000,
+            "startTime" : 1437423353318,
+            "userCount" : 5,
+            "votes" : {
+              "-Juh60H2P_pL-DQZS6Ds" : {
+                "guestId" : "goAHyjw4wIgvre3KAAAo",
+                "timeStep" : 11,
+                "voteVal" : 1
+              },
+              "-Juh6Gou3y_S-Wj9bBzM" : {
+                "guestId" : "73l_ru0nAfM0RWauAAAp",
+                "timeStep" : 44,
+                "voteVal" : 2
+              },
+              "-Juh6HlWvI-CMlUp5etT" : {
+                "guestId" : "PRNNui9obndO3yKHAAAq",
+                "timeStep" : 46,
+                "voteVal" : -2
+              },
+              "-Juh6JkzsmgG8CghAKgP" : {
+                "guestId" : "FU3AOa3mxJYiqHHbAAAr",
+                "timeStep" : 50,
+                "voteVal" : 1
+              },
+              "-Juh6LBnVbcwpLxlGgEX" : {
+                "guestId" : "FHabaCFGuPObKr0GAAAs",
+                "timeStep" : 53,
+                "voteVal" : 0
+              },
+              "-Juh6mtWGcxbbxrwlAwC" : {
+                "guestId" : "goAHyjw4wIgvre3KAAAo",
+                "timeStep" : 112
+              },
+              "-Juh6n0ZZGd4m5owBwgu" : {
+                "guestId" : "73l_ru0nAfM0RWauAAAp",
+                "timeStep" : 112
+              },
+              "-Juh6n7oE1UdeifPketv" : {
+                "guestId" : "PRNNui9obndO3yKHAAAq",
+                "timeStep" : 113
+              },
+              "-Juh6nFVTQY7mVvi-f8q" : {
+                "guestId" : "FU3AOa3mxJYiqHHbAAAr",
+                "timeStep" : 113
+              },
+              "-Juh6nN2O8BEg6kM_xG0" : {
+                "guestId" : "FHabaCFGuPObKr0GAAAs",
+                "timeStep" : 113
+              }
+            },
+            "weightedAverage" : 0.4623955431754875
+          },
+          "9icnmi" : {
+            "interval" : 2000,
+            "startTime" : 1429638658154
+          },
+          "cnb3xr" : {
+            "interval" : 2000,
+            "startTime" : 1429580608979
+          },
+          "f7ds4i" : {
+            "endTime" : 1438661172568,
+            "interval" : 2000,
+            "startTime" : 1438661128353,
+            "userCount" : 1,
+            "votes" : {
+              "-Jvqsj6dHXq3o-Lc66sz" : {
+                "guestId" : "Ag6QpvRQ7iKX6_M5AAAx",
+                "timeStep" : 8,
+                "voteVal" : 1
+              },
+              "-JvqslVMcnjiertgpa8k" : {
+                "guestId" : "Ag6QpvRQ7iKX6_M5AAAx",
+                "timeStep" : 13,
+                "voteVal" : 2
+              },
+              "-JvqspWT4EyVh09EYscN" : {
+                "guestId" : "Ag6QpvRQ7iKX6_M5AAAx",
+                "timeStep" : 21
+              }
+            },
+            "weightedAverage" : 1.6153846153846154
+          },
+          "k9ms4i" : {
+            "interval" : 2000,
+            "startTime" : 1429639480760
+          },
+          "tke29" : {
+            "endTime" : 1429596049198,
+            "interval" : 2000,
+            "startTime" : 1429595970339,
+            "userCount" : 1,
+            "votes" : {
+              "-JnPYxKr79A53dx_qbmv" : {
+                "guestId" : "7iykeXFc5PKmPbmWAAAi",
+                "timeStep" : 15,
+                "voteVal" : 2
+              },
+              "-JnPZ1WWufWXVhbyvK6P" : {
+                "guestId" : "7iykeXFc5PKmPbmWAAAi",
+                "timeStep" : 26,
+                "voteVal" : 1
+              },
+              "-JnPZ2J8vNW18XQJ6Vf_" : {
+                "guestId" : "7iykeXFc5PKmPbmWAAAi",
+                "timeStep" : 27
+              },
+              "-JnPZ30iqOZtWOn8ZXas" : {
+                "guestId" : "7iykeXFc5PKmPbmWAAAi",
+                "timeStep" : 29,
+                "voteVal" : 0
+              },
+              "-JnPZ3MKZdLRz0oqKCh3" : {
+                "guestId" : "7iykeXFc5PKmPbmWAAAi",
+                "timeStep" : 30,
+                "voteVal" : -1
+              },
+              "-JnPZ4qTcYsuhcJ1BhKo" : {
+                "guestId" : "7iykeXFc5PKmPbmWAAAi",
+                "timeStep" : 33,
+                "voteVal" : -2
+              }
+            },
+            "weightedAverage" : 0.36363636363636365
+          }
+        }
+      },
+      "1428682827446605" : {
+        "displayName" : "Seven Iil",
+        "sessions" : {
+          "7rpb9" : {
+            "endTime" : 1429654705152,
+            "interval" : 2000,
+            "startTime" : 1429654669773,
+            "userCount" : 1,
+            "votes" : {
+              "-JnT2qqwQ-B3iBAv-_w5" : {
+                "guestId" : "LW5LWjWVXvYAQSUSAAAB",
+                "timeStep" : 12,
+                "voteVal" : 2
+              },
+              "-JnT2s5nt9AQJhQc8q9D" : {
+                "guestId" : "LW5LWjWVXvYAQSUSAAAB",
+                "timeStep" : 15,
+                "voteVal" : 1
+              }
+            },
+            "weightedAverage" : 1.6
+          },
+          "ej0pb9" : {
+            "interval" : 2000,
+            "startTime" : 1429654318145
+          },
+          "xzuxr" : {
+            "interval" : 2000,
+            "startTime" : 1429655206426
+          }
+        }
+      },
+      "2366686646568" : {
+        "displayName" : "Seán Seosamh"
+      },
+      "555448241971" : {
+        "displayName" : "Travis Neufeld",
+        "sessions" : {
+          "kv5cdi" : {
+            "endTime" : 1429655154292,
+            "interval" : 2000,
+            "startTime" : 1429655130127,
+            "userCount" : 1,
+            "votes" : {
+              "-JnT4aFOpF1rxbfSLnQ6" : {
+                "guestId" : "LRsxK_iWR0tQNJr6AAAB",
+                "timeStep" : 10,
+                "voteVal" : 2
+              }
+            },
+            "weightedAverage" : 2
+          },
+          "n7mn29" : {
+            "interval" : 2000,
+            "startTime" : 1429659434776
+          },
+          "qkt9" : {
+            "interval" : 2000,
+            "startTime" : 1429652877054,
+            "votes" : {
+              "-JnSxph3uErMjglRhBff" : {
+                "guestId" : "8bx0M_Q4Uq8dGTwkAAAB",
+                "timeStep" : 120,
+                "voteVal" : 2
+              },
+              "-JnSxqyI4_aeSrcXG5ka" : {
+                "guestId" : "8bx0M_Q4Uq8dGTwkAAAB",
+                "timeStep" : 122,
+                "voteVal" : 1
+              },
+              "-JnSxv4VnBixWshoHfSV" : {
+                "guestId" : "8bx0M_Q4Uq8dGTwkAAAB",
+                "timeStep" : 131,
+                "voteVal" : 2
+              },
+              "-JnSxwo7LCQ5J0sRRwEB" : {
+                "guestId" : "8bx0M_Q4Uq8dGTwkAAAB",
+                "timeStep" : 134,
+                "voteVal" : -2
+              }
+            }
+          },
+          "x03sor" : {
+            "interval" : 2000,
+            "startTime" : 1429669055257
+          },
+          "yf1or" : {
+            "endTime" : 1429659360500,
+            "interval" : 2000,
+            "startTime" : 1429659321428,
+            "userCount" : 3,
+            "votes" : {
+              "-JnTKYcAZFC-PwcPUo9-" : {
+                "guestId" : "ACUzwcs5ExveMYT4AAAB",
+                "timeStep" : 6,
+                "voteVal" : 2
+              },
+              "-JnTKa6LgmQ5ol9VIT2y" : {
+                "guestId" : "wL5MKyHIWNW1TUpiAAAC",
+                "timeStep" : 11,
+                "voteVal" : 1
+              },
+              "-JnTKbvZYyL-aVmwWOWU" : {
+                "guestId" : "o6acVdX0MQKl4G62AAAD",
+                "timeStep" : 15,
+                "voteVal" : 2
+              }
+            },
+            "weightedAverage" : 1.68
+          }
+        }
+      }
+    }
+  }
+}
