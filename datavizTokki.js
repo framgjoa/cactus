@@ -15,6 +15,8 @@ var svgContainer = d3.select(".chart").append("svg")
                                     .append("g")
                                       .attr("transform", "translate(" + margin.left + "," + margin.top +")");
 
+//Modify data to get votes "flat"
+var voteTally = data.votes;
 
 
 //Scaling function
@@ -24,11 +26,15 @@ var xAxisLength = data.endTime - data.startTime;
 var xAxisScale = d3.scale.linear().domain([0, (xAxisLength)/10000]).range([0, 1000]);
 
 var xAxis = d3.svg.axis().scale(xAxisScale).orient("bottom");
-var xMap = function(d){return data.votes[d]["timeStep"]*data.interval;};
+var xValue = function(d){return d.timeStep * data.interval}
+var xMap = function(d){ return xAxisScale(xValue(d));};
+//var xMap = function(d){ return xAxisScale(d);};
 
 var yAxisScale = d3.scale.linear().domain([-2,2]).range([0, 400]);
 var yAxis = d3.svg.axis().scale(yAxisScale).orient("left");
-var yMap = function(d){return data.votes[d]["voteVal"];};
+var yValue = function(d){return d.voteVal; }
+var yMap = function(d){return yAxisScale(yValue(d));};
+//var yMap = function(d){return yAxisScale(d);};
 
 
 
@@ -63,9 +69,10 @@ svgContainer.append("g")
             .text("Vote Score");
 
 // Vote dots
+
 svgContainer.selectAll(".dot")
-            .data(data)
-          .enter().append("svg:circle")
+            .data(voteTally)
+          .enter().append("circle")
             .attr("class", "dot")
             .attr("r", 3)
             .attr("cx", xMap)
